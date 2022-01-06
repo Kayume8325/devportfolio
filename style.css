@@ -68,10 +68,16 @@ a{
     padding-left: 1%;
 }
 
+.first-p{
+    font-weight: 700;
+    font-size: 14px;
+}
+
 .img1 img{
     width: 100%;
     padding-left: 10%;
     margin-top:-140px;
+    padding-right: 10%;
 }
 .topside{
     display: flex;
